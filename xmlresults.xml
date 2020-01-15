@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="1" time="10.888">
+ <testsuite name="angular-material input component page" timestamp="2020-01-15T19:51:46" hostname="localhost" time="10.888" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="angular-material input component page" name="Should change input component value" time="10.88" />
+ </testsuite>
+</testsuites>
